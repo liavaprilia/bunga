@@ -1,0 +1,12 @@
+[
+    {"nama": "Melati", "namaLatin": "Jasminum", "imageId": "melati"},
+    {"nama": "Mawar", "namaLatin": "Rosa", "imageId": "mawar"},
+    {"nama": "Anggrek", "namaLatin": "Orchidaceae", "imageId": "anggrek"},
+    {"nama": "Matahari", "namaLatin": "Solis", "imageId": "matahari"},
+    {"nama": "Sepatu", "namaLatin": "Hibiscus rosa sinensis L", "imageId": "sepatu"},
+    {"nama": "Lavender", "namaLatin": "Lavandula", "imageId": "lavender"},
+    {"nama": "Tulip", "namaLatin": "Tulipa", "imageId": "tulip"},
+    {"nama": "Lily", "namaLatin": "Lilinium", "imageId": "lily"},
+    {"nama": "Geranium", "namaLatin": "Geranium Maculatum", "imageId": "geranium"},
+    {"nama": "Bougenville", "namaLatin": "Bougainvillea spectabilis Nytaginaceae", "imageId": "bougenville"}
+]
